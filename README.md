@@ -1,7 +1,7 @@
 CSStar
 ======
 
-A CSS/CSS3 library for adding cool effects and designs to user's webpages.
+A CSS/CSS3 library for adding cool effects and aesthetic designs to user's webpages.
 
 ======
 If you want to help:

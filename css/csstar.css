@@ -1,6 +1,11 @@
-.button001 {
-  
+body.plain {
+  background-color: lightgrey;
 }
-.button001:hover {
-  
+
+body.orangy_fun {
+  background-color: orange;
+}
+body.orangy_fun h1 {
+  color: white;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
