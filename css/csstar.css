@@ -1,6 +1,10 @@
 body.plain {
   background-color: lightgrey;
 }
+body.plain h1 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 body.orangy_fun {
   background-color: orange;
