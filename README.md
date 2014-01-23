@@ -15,4 +15,6 @@ git clone https://github.com/HardcoreCoder/CSStar.git
 
 create edits and commit them by typing in the console:
 
-git commit -a and then: git push.
+git commit -a and then:
+
+<code>git push https://<Your Username>:<Your Password>@github.com/HardcoreCoder/CSStar<code>
